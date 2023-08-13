@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Beautiful Notes",
+  "version": "1.0",
+  "description": "Create beautiful notes",
+  "icons": {
+    "16": "images.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
